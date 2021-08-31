@@ -1,60 +1,60 @@
 1. System76 Pangolin Linux-first laptop with AMD internals now in stock 
-Points: 184 | Number of Comments: 100
+Points: 263 | Number of Comments: 161
 2. You want enabling CSS selectors, not disabling ones 
-Points: 24 | Number of Comments: 2
-3. Tor is a great sysadmin tool 
-Points: 243 | Number of Comments: 72
-4. Apple and Google must allow other payment systems, new Korean law declares 
-Points: 1002 | Number of Comments: 445
-5. Tech-savvy audiences block Google Analytics 
-Points: 1107 | Number of Comments: 599
-6. Roman priest’s exceptionally well-preserved remains found in Pompeii 
-Points: 85 | Number of Comments: 15
-7. Docker Desktop no longer free for large companies 
-Points: 373 | Number of Comments: 351
-8. Retool 
+Points: 74 | Number of Comments: 24
+3. Apple and Google must allow other payment systems, new Korean law declares 
+Points: 1057 | Number of Comments: 465
+4. Tor is a great sysadmin tool 
+Points: 271 | Number of Comments: 82
+5. Why Erlang? 
+Points: 23 | Number of Comments: 1
+6. The U.S. Army Tried Portable Nuclear Power at Remote Bases 60 Years Ago 
+Points: 22 | Number of Comments: 9
+7. Tech-savvy audiences block Google Analytics 
+Points: 1134 | Number of Comments: 612
+8. PostgreSQL Subtransactions Considered Harmful 
+Points: 17 | Number of Comments: 9
+9. Rolling your own minimal embedded Linux for the Raspberry Pi 
+Points: 10 | Number of Comments: 5
+10. Pen Plotter Art and Algorithms, Part 1 
+Points: 27 | Number of Comments: 2
+11. Retool 
 Points: 0 | Number of Comments: 0
-9. Apple banned a pay equity Slack channel 
-Points: 198 | Number of Comments: 147
-10. Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA 
-Points: 105 | Number of Comments: 69
-11. Adapting the OCaml Ecosystem for Multicore OCaml 
-Points: 17 | Number of Comments: 3
-12. The art of not taking things personally 
-Points: 89 | Number of Comments: 49
-13. Perfect pitch study: Why can’t we identify music notes as well as colors? 
-Points: 57 | Number of Comments: 129
-14. Rugby: Head impact study shows cognitive decline after just one season 
-Points: 221 | Number of Comments: 169
-15. Startup Bootstrapping Plan 
-Points: 100 | Number of Comments: 22
-16. The Winners of Remote Work 
-Points: 114 | Number of Comments: 190
-17. A remote island's battle against seabird-killing ants 
-Points: 93 | Number of Comments: 26
-18. Pen Plotter Art and Algorithms, Part 1 
-Points: 10 | Number of Comments: 0
-19. Extreme Ironing 
-Points: 340 | Number of Comments: 134
-20. Collection of artwork made with the integer circle algorithm 
-Points: 75 | Number of Comments: 5
-21. Show HN: BokehCamera – Blur webcam background photorealistically using RealSense 
-Points: 40 | Number of Comments: 10
-22. At the world's oldest social housing, rent hasn't changed since 1521 
-Points: 193 | Number of Comments: 169
-23. Wild claims about K performance 
-Points: 80 | Number of Comments: 41
-24. Mythic Rolls Out M1000-Series Analog AI Accelerators 
-Points: 21 | Number of Comments: 5
-25. Zoom court hearing postponed after accused found in same location as witness 
-Points: 165 | Number of Comments: 108
-26. Brooks, Wirth and Go 
-Points: 198 | Number of Comments: 143
-27. Journal of Controversial Ideas 
-Points: 84 | Number of Comments: 34
-28. A visual introduction to Gaussian Belief Propagation 
-Points: 145 | Number of Comments: 11
-29. Apple proposes adding "model" element to HTML that displays 3D content 
-Points: 205 | Number of Comments: 195
-30. Amplitude 
-Points: 81 | Number of Comments: 23
+12. Roman priest’s exceptionally well-preserved remains found in Pompeii 
+Points: 100 | Number of Comments: 23
+13. The art of not taking things personally 
+Points: 135 | Number of Comments: 63
+14. Docker Desktop no longer free for large companies 
+Points: 427 | Number of Comments: 384
+15. Adapting the OCaml Ecosystem for Multicore OCaml 
+Points: 37 | Number of Comments: 5
+16. Rugby: Head impact study shows cognitive decline after just one season 
+Points: 236 | Number of Comments: 179
+17. Show HN: I made an app to draw stickers for iMessage, Discord, and Slack 
+Points: 61 | Number of Comments: 17
+18. Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA 
+Points: 113 | Number of Comments: 75
+19. Perfect pitch study: Why can’t we identify music notes as well as colors? 
+Points: 66 | Number of Comments: 142
+20. The Winners of Remote Work 
+Points: 125 | Number of Comments: 205
+21. Extreme Ironing 
+Points: 353 | Number of Comments: 147
+22. A remote island's battle against seabird-killing ants 
+Points: 101 | Number of Comments: 26
+23. At the world's oldest social housing, rent hasn't changed since 1521 
+Points: 202 | Number of Comments: 176
+24. Brooks, Wirth and Go 
+Points: 219 | Number of Comments: 148
+25. Wild claims about K performance 
+Points: 91 | Number of Comments: 46
+26. Journal of Controversial Ideas 
+Points: 99 | Number of Comments: 45
+27. Collection of artwork made with the integer circle algorithm 
+Points: 83 | Number of Comments: 6
+28. Apple proposes adding "model" element to HTML that displays 3D content 
+Points: 216 | Number of Comments: 201
+29. Apple banned a pay equity Slack channel 
+Points: 250 | Number of Comments: 207
+30. A visual introduction to Gaussian Belief Propagation 
+Points: 148 | Number of Comments: 12
