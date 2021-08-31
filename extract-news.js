@@ -4,19 +4,19 @@ const fs = require('fs');
 
 function checkComments(str) {
     let words = str.split('');
-    let validWords = words.filter(x => !isNaN(x) && x !== '\u00A0' && x !== ' ');
-    if (isNaN(parseInt(validWords.join('')))) {
+    let validNumbers = words.filter(x => !isNaN(x) && x !== '\u00A0' && x !== ' ');
+    if (isNaN(parseInt(validNumbers.join('')))) {
         return 0;
     } else {
-        return parseInt(validWords.join(''));
+        return parseInt(validNumbers.join(''));
     }
 }
 
 function checkScore(str) {
     let words = str.split(' ');
     if (words.includes('points')) {
-        let validWords = str.split('points');
-        return parseInt(validWords.join(''));
+        let validNumbers = str.split('points');
+        return parseInt(validNumbers.join(''));
     } else {
         return 0;
     }
@@ -46,7 +46,7 @@ function webCrawler() {
         for (let i = 1; i < 90; i += 3) {
             let e = $("#hnmain > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(" + i + ")").text().trim().split('      ');
             ranks.push(parseInt(e[0]));
-            titles.push(e[1]);
+            titles.push(e[1].split('(')[0]);
         }
         // Gets points and comments
         for (let i = 2; i < 90; i += 3) {
