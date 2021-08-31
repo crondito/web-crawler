@@ -12,6 +12,17 @@ function checkComments(str) {
     }
 }
 
+function checkScore(str) {
+    let aux = str.split(' ');
+    if (aux.includes('points')) {
+        let aux2 = str.split('points');
+        return parseInt(aux2.join(''));
+    } else {
+        return 0;
+    }
+
+}
+
 request("https://news.ycombinator.com/", (error, response, body) => {
 
     if (error) {
@@ -40,7 +51,7 @@ request("https://news.ycombinator.com/", (error, response, body) => {
     for (let i = 2; i < 90; i += 3) {
         let e = $("#hnmain > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(" + i + ")").text().trim().split('hide');
         comments.push(checkComments(e[1])); // this gets the number of comments
-
+        points.push(checkScore(e[0])); // this gets the points
     }
 
     // Gets the rank and title and saves all of the items in the output folder as hackernews.txt
@@ -52,9 +63,12 @@ request("https://news.ycombinator.com/", (error, response, body) => {
         //let comms = comments3[i];
         fs.appendFileSync('./web-crawler/web-crawler/output/hackernews.txt', rank + ' ' + title + '\n' + 'Score: ' + score + ' | ' + comms + ' comments \n');
     });*/
+    for (let i = 0; i < ranks.length; i++) {
+        fs.appendFileSync('./web-crawler/web-crawler/output/hackernews.txt', ranks[i] + '. ' + titles[i] + '\n' + 'Points: ' + points[i] + ' | ' + 'Number of Comments: ' + comments[i] + '\n');
+    }
 
     //console.log(ranks);
     //console.log(titles);
-    console.log(comments);
-    console.log(points);
+    //console.log(comments);
+    //console.log(points);
 });

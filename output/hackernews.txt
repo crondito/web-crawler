@@ -1,0 +1,60 @@
+1. Tor is a great sysadmin tool (2020) (jamieweb.net)
+Points: 159 | Number of Comments: 49
+2. Docker Desktop no longer free for large companies (theregister.com)
+Points: 103 | Number of Comments: 139
+3. Apple and Google must allow other payment systems, new Korean law declares (theverge.com)
+Points: 863 | Number of Comments: 387
+4. Roman priest’s exceptionally well-preserved remains found in Pompeii (smithsonianmag.com)
+Points: 42 | Number of Comments: 5
+5. Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA (apollo-core.com)
+Points: 78 | Number of Comments: 47
+6. Perfect pitch study: Why can’t we identify music notes as well as colors? (uchicago.edu)
+Points: 28 | Number of Comments: 48
+7. Tech-savvy audiences block Google Analytics (plausible.io)
+Points: 1030 | Number of Comments: 572
+8. A remote island's battle against seabird-killing ants (2015) (audubon.org)
+Points: 74 | Number of Comments: 18
+9. Journal of Controversial Ideas (journalofcontroversialideas.org)
+Points: 51 | Number of Comments: 19
+10. Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React) (notion.site)
+Points: 0 | Number of Comments: 0
+11. Rugby: Head impact study shows cognitive decline after just one season (bbc.co.uk)
+Points: 195 | Number of Comments: 139
+12. Collection of artwork made with the integer circle algorithm (Minsky circle) (onirom.fr)
+Points: 58 | Number of Comments: 3
+13. Startup Bootstrapping Plan (twitter.com/adam_keesling)
+Points: 11 | Number of Comments: 0
+14. Extreme Ironing (wikipedia.org)
+Points: 303 | Number of Comments: 115
+15. The Winners of Remote Work (nytimes.com)
+Points: 77 | Number of Comments: 120
+16. Amplitude (YC W12) IPO S1 (sec.gov)
+Points: 55 | Number of Comments: 11
+17. The art of not taking things personally (dave-bailey.com)
+Points: 32 | Number of Comments: 19
+18. 79 Bay Area startups from Y Combinator's biggest Demo Day batch yet (bizjournals.com)
+Points: 12 | Number of Comments: 1
+19. At the world's oldest social housing, rent hasn't changed since 1521 (cbc.ca)
+Points: 173 | Number of Comments: 159
+20. A visual introduction to Gaussian Belief Propagation (gaussianbp.github.io)
+Points: 128 | Number of Comments: 10
+21. 1910 intro to Astronomy textbook, with the right amount of math [pdf] (gron.ca)
+Points: 59 | Number of Comments: 7
+22. Show HN: BokehCamera – Blur webcam background photorealistically using RealSense (github.com/dheera)
+Points: 22 | Number of Comments: 3
+23. A Pacific Gold Rush (laphamsquarterly.org)
+Points: 13 | Number of Comments: 0
+24. Zoom court hearing postponed after accused found in same location as witness (sturgisjournal.com)
+Points: 84 | Number of Comments: 52
+25. Wild boars are able to open traps to free their fellows (nature.com)
+Points: 88 | Number of Comments: 19
+26. RSA/SHA1 signature type disabled by default in OpenSSH (undeadly.org)
+Points: 36 | Number of Comments: 2
+27. Apple proposes adding "model" element to HTML that displays 3D content (github.com/webkit)
+Points: 172 | Number of Comments: 165
+28. Brooks, Wirth and Go (fredrikholmqvist.com)
+Points: 163 | Number of Comments: 126
+29. Allbirds S-1 IPO (sec.gov)
+Points: 77 | Number of Comments: 84
+30. Three Clocks Are Better Than One (tigerbeetle.com)
+Points: 50 | Number of Comments: 24
