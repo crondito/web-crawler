@@ -54,21 +54,9 @@ request("https://news.ycombinator.com/", (error, response, body) => {
         points.push(checkScore(e[0])); // this gets the points
     }
 
-    // Gets the rank and title and saves all of the items in the output folder as hackernews.txt
-    /*$('tr.athing').each(function (i) {
-        let rank = $(this).find('span.rank').text();
-        let title = $(this).find('td.title > a').text().trim();
-        //let link = $(this).find('td.title > a').attr('href');
-        //let score = points2[i];
-        //let comms = comments3[i];
-        fs.appendFileSync('./web-crawler/web-crawler/output/hackernews.txt', rank + ' ' + title + '\n' + 'Score: ' + score + ' | ' + comms + ' comments \n');
-    });*/
+    // Saves all of the items in the output folder as hackernews.txt
     for (let i = 0; i < ranks.length; i++) {
         fs.appendFileSync('./web-crawler/web-crawler/output/hackernews.txt', ranks[i] + '. ' + titles[i] + '\n' + 'Points: ' + points[i] + ' | ' + 'Number of Comments: ' + comments[i] + '\n');
     }
 
-    //console.log(ranks);
-    //console.log(titles);
-    //console.log(comments);
-    //console.log(points);
 });
