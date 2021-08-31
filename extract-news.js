@@ -3,20 +3,20 @@ let cheerio = require('cheerio');
 let fs = require('fs');
 
 function checkComments(str) {
-    let aux = str.split('');
-    let aux2 = aux.filter(x => !isNaN(x) && x !== '\u00A0' && x !== ' ');
-    if (isNaN(parseInt(aux2.join('')))) {
+    let words = str.split('');
+    let validWords = words.filter(x => !isNaN(x) && x !== '\u00A0' && x !== ' ');
+    if (isNaN(parseInt(validWords.join('')))) {
         return 0;
     } else {
-        return parseInt(aux2.join(''));
+        return parseInt(validWords.join(''));
     }
 }
 
 function checkScore(str) {
-    let aux = str.split(' ');
-    if (aux.includes('points')) {
-        let aux2 = str.split('points');
-        return parseInt(aux2.join(''));
+    let words = str.split(' ');
+    if (words.includes('points')) {
+        let validWords = str.split('points');
+        return parseInt(validWords.join(''));
     } else {
         return 0;
     }
@@ -41,17 +41,17 @@ request("https://news.ycombinator.com/", (error, response, body) => {
     // Clears previous hackernews.txt
     fs.writeFileSync('./web-crawler/web-crawler/output/hackernews.txt', '');
 
-    //Gets ranks and titles
+    // Gets ranks and titles
     for (let i = 1; i < 90; i += 3) {
         let e = $("#hnmain > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(" + i + ")").text().trim().split('      ');
-        ranks.push(parseInt(e[0])); // this gets the rank
-        titles.push(e[1]); // this gets the titles
+        ranks.push(parseInt(e[0]));
+        titles.push(e[1]);
     }
-    //Gets points and comments
+    // Gets points and comments
     for (let i = 2; i < 90; i += 3) {
         let e = $("#hnmain > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(" + i + ")").text().trim().split('hide');
-        comments.push(checkComments(e[1])); // this gets the number of comments
-        points.push(checkScore(e[0])); // this gets the points
+        comments.push(checkComments(e[1]));
+        points.push(checkScore(e[0]));
     }
 
     // Saves all of the items in the output folder as hackernews.txt

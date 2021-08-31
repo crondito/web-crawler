@@ -1,60 +1,60 @@
-1. Tor is a great sysadmin tool (2020) (jamieweb.net)
-Points: 159 | Number of Comments: 49
-2. Docker Desktop no longer free for large companies (theregister.com)
-Points: 103 | Number of Comments: 139
-3. Apple and Google must allow other payment systems, new Korean law declares (theverge.com)
-Points: 863 | Number of Comments: 387
-4. Roman priest’s exceptionally well-preserved remains found in Pompeii (smithsonianmag.com)
-Points: 42 | Number of Comments: 5
-5. Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA (apollo-core.com)
-Points: 78 | Number of Comments: 47
-6. Perfect pitch study: Why can’t we identify music notes as well as colors? (uchicago.edu)
-Points: 28 | Number of Comments: 48
-7. Tech-savvy audiences block Google Analytics (plausible.io)
-Points: 1030 | Number of Comments: 572
-8. A remote island's battle against seabird-killing ants (2015) (audubon.org)
-Points: 74 | Number of Comments: 18
-9. Journal of Controversial Ideas (journalofcontroversialideas.org)
-Points: 51 | Number of Comments: 19
-10. Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React) (notion.site)
+1. Surveilance bill rushed through Australian parliament in 24 hours (tutanota.com)
+Points: 223 | Number of Comments: 108
+2. System76 Pangolin “Linux-first” laptop with AMD internals now in stock (system76.com)
+Points: 53 | Number of Comments: 14
+3. Apple just banned a pay equity Slack channel but lets fun dogs channel lie (theverge.com)
+Points: 74 | Number of Comments: 37
+4. Docker Desktop no longer free for large companies (theregister.com)
+Points: 286 | Number of Comments: 285
+5. Tor is a great sysadmin tool (2020) (jamieweb.net)
+Points: 211 | Number of Comments: 66
+6. Apple and Google must allow other payment systems, new Korean law declares (theverge.com)
+Points: 934 | Number of Comments: 430
+7. Startup Bootstrapping Plan (twitter.com/adam_keesling)
+Points: 65 | Number of Comments: 13
+8. Roman priest’s exceptionally well-preserved remains found in Pompeii (smithsonianmag.com)
+Points: 64 | Number of Comments: 9
+9. Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA (apollo-core.com)
+Points: 89 | Number of Comments: 60
+10. Tech-savvy audiences block Google Analytics (plausible.io)
+Points: 1067 | Number of Comments: 587
+11. Perfect pitch study: Why can’t we identify music notes as well as colors? (uchicago.edu)
+Points: 49 | Number of Comments: 102
+12. Rugby: Head impact study shows cognitive decline after just one season (bbc.co.uk)
+Points: 210 | Number of Comments: 159
+13. Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React) (notion.site)
 Points: 0 | Number of Comments: 0
-11. Rugby: Head impact study shows cognitive decline after just one season (bbc.co.uk)
-Points: 195 | Number of Comments: 139
-12. Collection of artwork made with the integer circle algorithm (Minsky circle) (onirom.fr)
-Points: 58 | Number of Comments: 3
-13. Startup Bootstrapping Plan (twitter.com/adam_keesling)
-Points: 11 | Number of Comments: 0
-14. Extreme Ironing (wikipedia.org)
-Points: 303 | Number of Comments: 115
-15. The Winners of Remote Work (nytimes.com)
-Points: 77 | Number of Comments: 120
-16. Amplitude (YC W12) IPO S1 (sec.gov)
-Points: 55 | Number of Comments: 11
+14. A remote island's battle against seabird-killing ants (2015) (audubon.org)
+Points: 86 | Number of Comments: 25
+15. Collection of artwork made with the integer circle algorithm (Minsky circle) (onirom.fr)
+Points: 68 | Number of Comments: 5
+16. The Winners of Remote Work (nytimes.com)
+Points: 102 | Number of Comments: 169
 17. The art of not taking things personally (dave-bailey.com)
-Points: 32 | Number of Comments: 19
-18. 79 Bay Area startups from Y Combinator's biggest Demo Day batch yet (bizjournals.com)
-Points: 12 | Number of Comments: 1
-19. At the world's oldest social housing, rent hasn't changed since 1521 (cbc.ca)
-Points: 173 | Number of Comments: 159
-20. A visual introduction to Gaussian Belief Propagation (gaussianbp.github.io)
-Points: 128 | Number of Comments: 10
-21. 1910 intro to Astronomy textbook, with the right amount of math [pdf] (gron.ca)
-Points: 59 | Number of Comments: 7
-22. Show HN: BokehCamera – Blur webcam background photorealistically using RealSense (github.com/dheera)
-Points: 22 | Number of Comments: 3
-23. A Pacific Gold Rush (laphamsquarterly.org)
-Points: 13 | Number of Comments: 0
-24. Zoom court hearing postponed after accused found in same location as witness (sturgisjournal.com)
-Points: 84 | Number of Comments: 52
-25. Wild boars are able to open traps to free their fellows (nature.com)
-Points: 88 | Number of Comments: 19
-26. RSA/SHA1 signature type disabled by default in OpenSSH (undeadly.org)
-Points: 36 | Number of Comments: 2
+Points: 62 | Number of Comments: 32
+18. Extreme Ironing (wikipedia.org)
+Points: 324 | Number of Comments: 127
+19. Amplitude (YC W12) IPO S1 (sec.gov)
+Points: 73 | Number of Comments: 18
+20. Show HN: BokehCamera – Blur webcam background photorealistically using RealSense (github.com/dheera)
+Points: 35 | Number of Comments: 7
+21. At the world's oldest social housing, rent hasn't changed since 1521 (cbc.ca)
+Points: 182 | Number of Comments: 162
+22. Journal of Controversial Ideas (journalofcontroversialideas.org)
+Points: 74 | Number of Comments: 26
+23. A visual introduction to Gaussian Belief Propagation (gaussianbp.github.io)
+Points: 140 | Number of Comments: 11
+24. 1910 intro to Astronomy textbook, with the right amount of math [pdf] (gron.ca)
+Points: 71 | Number of Comments: 10
+25. Zoom court hearing postponed after accused found in same location as witness (sturgisjournal.com)
+Points: 141 | Number of Comments: 90
+26. LiveCode drops its Open Source Support (livecode.org)
+Points: 18 | Number of Comments: 0
 27. Apple proposes adding "model" element to HTML that displays 3D content (github.com/webkit)
-Points: 172 | Number of Comments: 165
+Points: 193 | Number of Comments: 179
 28. Brooks, Wirth and Go (fredrikholmqvist.com)
-Points: 163 | Number of Comments: 126
-29. Allbirds S-1 IPO (sec.gov)
-Points: 77 | Number of Comments: 84
-30. Three Clocks Are Better Than One (tigerbeetle.com)
-Points: 50 | Number of Comments: 24
+Points: 181 | Number of Comments: 137
+29. Wild boars are able to open traps to free their fellows (nature.com)
+Points: 97 | Number of Comments: 21
+30. Allbirds S-1 IPO (sec.gov)
+Points: 87 | Number of Comments: 98
