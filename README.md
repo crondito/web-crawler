@@ -1,8 +1,8 @@
 # web-crawler
 
-This program uses JavaScript, node.js, request, and cheerio to create a web crawler to extract the first 30 entries from https://news.ycombinator.com/ .
+This program uses JavaScript, node.js, request, and cheerio to create a web crawler that extracts the first 30 entries from https://news.ycombinator.com/ .
 
-It only takes into account the title, the number of the order, the number of comments, and the points for each entry.​
+It only takes into account the title, the number of the order, the number of comments, and the points for each entry.
 
 It also completes the following filtering operations:
 <ul>
