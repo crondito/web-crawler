@@ -1,60 +1,60 @@
 1. Surveilance bill rushed through Australian parliament in 24 hours (tutanota.com)
-Points: 223 | Number of Comments: 108
+Points: 271 | Number of Comments: 143
 2. System76 Pangolin “Linux-first” laptop with AMD internals now in stock (system76.com)
-Points: 53 | Number of Comments: 14
+Points: 80 | Number of Comments: 29
 3. Apple just banned a pay equity Slack channel but lets fun dogs channel lie (theverge.com)
-Points: 74 | Number of Comments: 37
+Points: 100 | Number of Comments: 57
 4. Docker Desktop no longer free for large companies (theregister.com)
-Points: 286 | Number of Comments: 285
+Points: 304 | Number of Comments: 297
 5. Tor is a great sysadmin tool (2020) (jamieweb.net)
-Points: 211 | Number of Comments: 66
+Points: 212 | Number of Comments: 67
 6. Apple and Google must allow other payment systems, new Korean law declares (theverge.com)
-Points: 934 | Number of Comments: 430
+Points: 939 | Number of Comments: 431
 7. Startup Bootstrapping Plan (twitter.com/adam_keesling)
-Points: 65 | Number of Comments: 13
+Points: 76 | Number of Comments: 14
 8. Roman priest’s exceptionally well-preserved remains found in Pompeii (smithsonianmag.com)
-Points: 64 | Number of Comments: 9
-9. Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA (apollo-core.com)
-Points: 89 | Number of Comments: 60
-10. Tech-savvy audiences block Google Analytics (plausible.io)
-Points: 1067 | Number of Comments: 587
+Points: 69 | Number of Comments: 9
+9. Tech-savvy audiences block Google Analytics (plausible.io)
+Points: 1077 | Number of Comments: 587
+10. Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA (apollo-core.com)
+Points: 93 | Number of Comments: 61
 11. Perfect pitch study: Why can’t we identify music notes as well as colors? (uchicago.edu)
-Points: 49 | Number of Comments: 102
+Points: 52 | Number of Comments: 105
 12. Rugby: Head impact study shows cognitive decline after just one season (bbc.co.uk)
-Points: 210 | Number of Comments: 159
+Points: 210 | Number of Comments: 160
 13. Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React) (notion.site)
 Points: 0 | Number of Comments: 0
 14. A remote island's battle against seabird-killing ants (2015) (audubon.org)
 Points: 86 | Number of Comments: 25
-15. Collection of artwork made with the integer circle algorithm (Minsky circle) (onirom.fr)
+15. The Winners of Remote Work (nytimes.com)
+Points: 104 | Number of Comments: 173
+16. Collection of artwork made with the integer circle algorithm (Minsky circle) (onirom.fr)
 Points: 68 | Number of Comments: 5
-16. The Winners of Remote Work (nytimes.com)
-Points: 102 | Number of Comments: 169
 17. The art of not taking things personally (dave-bailey.com)
-Points: 62 | Number of Comments: 32
+Points: 67 | Number of Comments: 33
 18. Extreme Ironing (wikipedia.org)
-Points: 324 | Number of Comments: 127
-19. Amplitude (YC W12) IPO S1 (sec.gov)
-Points: 73 | Number of Comments: 18
-20. Show HN: BokehCamera – Blur webcam background photorealistically using RealSense (github.com/dheera)
-Points: 35 | Number of Comments: 7
-21. At the world's oldest social housing, rent hasn't changed since 1521 (cbc.ca)
-Points: 182 | Number of Comments: 162
-22. Journal of Controversial Ideas (journalofcontroversialideas.org)
-Points: 74 | Number of Comments: 26
-23. A visual introduction to Gaussian Belief Propagation (gaussianbp.github.io)
+Points: 327 | Number of Comments: 131
+19. At the world's oldest social housing, rent hasn't changed since 1521 (cbc.ca)
+Points: 184 | Number of Comments: 163
+20. Amplitude (YC W12) IPO S1 (sec.gov)
+Points: 73 | Number of Comments: 20
+21. LiveCode drops its Open Source Support (livecode.org)
+Points: 23 | Number of Comments: 0
+22. Zoom court hearing postponed after accused found in same location as witness (sturgisjournal.com)
+Points: 146 | Number of Comments: 92
+23. Show HN: BokehCamera – Blur webcam background photorealistically using RealSense (github.com/dheera)
+Points: 35 | Number of Comments: 8
+24. A visual introduction to Gaussian Belief Propagation (gaussianbp.github.io)
 Points: 140 | Number of Comments: 11
-24. 1910 intro to Astronomy textbook, with the right amount of math [pdf] (gron.ca)
-Points: 71 | Number of Comments: 10
-25. Zoom court hearing postponed after accused found in same location as witness (sturgisjournal.com)
-Points: 141 | Number of Comments: 90
-26. LiveCode drops its Open Source Support (livecode.org)
-Points: 18 | Number of Comments: 0
+25. Journal of Controversial Ideas (journalofcontroversialideas.org)
+Points: 74 | Number of Comments: 28
+26. 1910 intro to Astronomy textbook, with the right amount of math [pdf] (gron.ca)
+Points: 73 | Number of Comments: 10
 27. Apple proposes adding "model" element to HTML that displays 3D content (github.com/webkit)
-Points: 193 | Number of Comments: 179
+Points: 194 | Number of Comments: 181
 28. Brooks, Wirth and Go (fredrikholmqvist.com)
-Points: 181 | Number of Comments: 137
+Points: 185 | Number of Comments: 138
 29. Wild boars are able to open traps to free their fellows (nature.com)
-Points: 97 | Number of Comments: 21
+Points: 98 | Number of Comments: 21
 30. Allbirds S-1 IPO (sec.gov)
-Points: 87 | Number of Comments: 98
+Points: 89 | Number of Comments: 100
