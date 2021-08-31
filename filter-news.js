@@ -21,10 +21,28 @@ for (let i = 0; i < lines.length - 1; i += 2) {
     arr.push(item);
 }
 
-/* Filter all previous entries with more than five words in the title
-ordered by the number of comments first. */
+/* Filter all previous entries with more than five words in the title ordered by the number of comments first. */
+/* Higher comments First*/
+function firstFilter(array) {
+    let arr = array.filter(function (el) {
+        return el.title.split(' ').length > 5;
+    });
+    arr.sort((a, b) => b.comments - a.comments);
+    return arr;
+}
+console.log('FIRST FILTER');
+console.log(firstFilter(arr));
+console.log('---------------------------------------------------------------');
 
-/* Filter all previous entries with less than or equal to five words
-in the title ordered by points. */
-
-console.log(arr);
+/* Filter all previous entries with less than or equal to five words in the title ordered by points. */
+/* Higher points First*/
+function secondFilter(array) {
+    let arr = array.filter(function (el) {
+        return el.title.split(' ').length <= 5;
+    });
+    arr.sort((a, b) => b.points - a.points);
+    return arr;
+}
+console.log('SECOND FILTER');
+console.log(secondFilter(arr));
+console.log('---------------------------------------------------------------');
