@@ -1,58 +1,29 @@
-58% of Hacker News, Reddit and tech-savvy audiences block Google Analytics
-https://plausible.io/blog/google-analytics-adblockers-missing-data
-Apple and Google must allow other payment systems, new Korean law declares
-https://www.theverge.com/2021/8/31/22643800/apple-google-south-korea-app-store-payment-legislation-passes
-Extreme Ironing
-https://en.wikipedia.org/wiki/Extreme_ironing
-At the world's oldest social housing, rent hasn't changed since 1521
-https://www.cbc.ca/radio/day6/hazaras-at-risk-in-afghanistan-the-meaning-of-comirnaty-a-brief-history-of-poppers-nancy-drew-at-91-more-1.6155032/at-the-world-s-oldest-social-housing-rent-hasn-t-changed-since-1521-1.6155041
-A visual introduction to Gaussian Belief Propagation
-https://gaussianbp.github.io/
-Glean – System for collecting, deriving and querying facts about source code
-https://glean.software/?open
-Rugby: Head impact study shows cognitive decline after just one season
-https://www.bbc.co.uk/sport/rugby-union/58369271
-Clinging Desperately to a Metaphor (2011)
-https://www.ursulakleguin.com/blog/33-clinging-desperately-to-a-metaphor
-The Winners of Remote Work
-https://www.nytimes.com/2021/08/31/upshot/the-winners-of-remote-work.html
-Getting the maximum of your C compiler, for security
-https://airbus-seclab.github.io/c-compiler-security/
-Voila – From notebooks to standalone web applications and dashboards
-https://voila.readthedocs.io/en/stable/
-Grokking Fenwick Trees
-https://jornhub.dev/articles/fenwick-trees/
-Toxic ‘forever chemicals’ contaminate indoor air at worrying levels
-https://www.theguardian.com/society/2021/aug/31/pfas-toxic-forever-chemicals-air-breathing
-Reasonable Person Principle
-http://www.cs.cmu.edu/~weigand/staff/
-Stripe: Thinking Like a Civilization
-https://www.readthegeneralist.com/briefing/stripe
-Apple proposes adding "model" element to HTML that displays 3D content
-https://github.com/WebKit/explainers/tree/main/model
-The complicated reality of doing what you love
-https://www.vox.com/the-highlight/22620178/hobby-job-leisure-labor
-Judge in Nokia and Apple lawsuit owned Apple stock during proceedings
-https://appleinsider.com/articles/21/08/31/judge-in-nokia-and-apple-lawsuit-owned-apple-stock-during-proceedings
-Staying Visual in a CLIP World
-http://liipetti.net/visual/staying-visual-in-a-clip-world/
-GDC 2019 Talk: Engineering Stable and Reliable AI [video]
-https://www.youtube.com/watch?v=OBusUGlnmWI
-Non-Commercial Licenses Are Non-Free Licenses
-https://susam.in/cafe/non-commercial-licenses-are-non-free-licenses.html
-Mob Justice Is Trampling Democratic Discourse
-https://www.theatlantic.com/magazine/archive/2021/10/new-puritans-mob-justice-canceled/619818/
-Wild claims about K performance
-https://mlochbaum.github.io/BQN/implementation/kclaims.html
-The ABS Programing Language
-https://www.abs-lang.org/
-In the US, wind power is getting bigger and better, report says
-https://arstechnica.com/science/2021/08/in-the-us-wind-power-is-getting-bigger-and-better-report-says/
-NetBSD/Evbarm on Apple Silicon
-https://wiki.netbsd.org/ports/evbarm/apple/
-Chaikin’s Algorithm: Drawing Curves
-https://www.bit-101.com/blog/2021/08/chaikins-algorithm-drawing-curves/
-Analyzing a High Rate of Paging
-https://www.brendangregg.com/blog/2021-08-30/high-rate-of-paging.html
-Brooks, Wirth and Go
-https://www.fredrikholmqvist.com/posts/brooks-wirth-go/
+1.58% of Hacker News, Reddit and tech-savvy audiences block Google Analytics
+2.Apple and Google must allow other payment systems, new Korean law declares
+3.Rugby: Head impact study shows cognitive decline after just one season
+4.A visual introduction to Gaussian Belief Propagation
+5.Extreme Ironing
+6.The Tesla Dojo Chip Is Impressive, but There Are Some Major Technical Issues
+7.Clinging Desperately to a Metaphor (2011)
+8.Glean – System for collecting, deriving and querying facts about source code
+9.Minsky Circle algorithm hidden complexity
+10.Getting the maximum of your C compiler, for security
+11.Docker is updating and extending our product subscriptions
+12.Shipwreck reveals ancient market for knock-off consumer goods (2019)
+14.1910 intro to Astronomy textbook, with the right amount of math [pdf]
+15.Voila – From notebooks to standalone web applications and dashboards
+16.At the world's oldest social housing, rent hasn't changed since 1521
+17.QBE: Compiler Back End
+18.Grokking Fenwick Trees
+19.Allbirds S-1 IPO
+20.Toxic ‘forever chemicals’ contaminate indoor air at worrying levels
+21.One Remote Island's Battle Against Acid-Spewing Ants
+22.GDC 2019 Talk: Engineering Stable and Reliable AI [video]
+23.Reasonable Person Principle
+24.The Gafam Poster Campaign
+25.Judge in Nokia and Apple lawsuit owned Apple stock during proceedings
+26.Mob Justice Is Trampling Democratic Discourse
+27.Analyzing a High Rate of Paging
+28.Wild claims about K performance
+29.NetBSD/Evbarm on Apple Silicon
+30.Staying Visual in a CLIP World

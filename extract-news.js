@@ -17,9 +17,10 @@ request("https://news.ycombinator.com/", (error, response, body) => {
 
     // Gets the first 30 news from https://news.ycombinator.com/ and saves them in the output folder as hackernews.txt
     $('tr.athing:has(td.votelinks)').each(function (index) {
+        let rank = $(this).find('span.rank').text().trim();
         let title = $(this).find('td.title > a').text().trim();
-        let link = $(this).find('td.title > a').attr('href');
-        fs.appendFileSync('./web-crawler/web-crawler/output/hackernews.txt', title + '\n' + link + '\n');
+        //let link = $(this).find('td.title > a').attr('href');
+        fs.appendFileSync('./web-crawler/web-crawler/output/hackernews.txt', rank + title + '\n');
     });
 
 });
