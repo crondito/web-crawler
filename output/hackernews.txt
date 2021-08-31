@@ -1,60 +1,60 @@
-1. Tor is a great sysadmin tool (2020) (jamieweb.net)
-Points: 159 | Number of Comments: 49
-2. Docker Desktop no longer free for large companies (theregister.com)
-Points: 103 | Number of Comments: 139
-3. Apple and Google must allow other payment systems, new Korean law declares (theverge.com)
-Points: 863 | Number of Comments: 387
-4. Roman priest’s exceptionally well-preserved remains found in Pompeii (smithsonianmag.com)
-Points: 42 | Number of Comments: 5
-5. Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA (apollo-core.com)
-Points: 78 | Number of Comments: 47
-6. Perfect pitch study: Why can’t we identify music notes as well as colors? (uchicago.edu)
-Points: 28 | Number of Comments: 48
-7. Tech-savvy audiences block Google Analytics (plausible.io)
-Points: 1030 | Number of Comments: 572
-8. A remote island's battle against seabird-killing ants (2015) (audubon.org)
-Points: 74 | Number of Comments: 18
-9. Journal of Controversial Ideas (journalofcontroversialideas.org)
-Points: 51 | Number of Comments: 19
-10. Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React) (notion.site)
+1. System76 Pangolin Linux-first laptop with AMD internals now in stock 
+Points: 184 | Number of Comments: 100
+2. You want enabling CSS selectors, not disabling ones 
+Points: 24 | Number of Comments: 2
+3. Tor is a great sysadmin tool 
+Points: 243 | Number of Comments: 72
+4. Apple and Google must allow other payment systems, new Korean law declares 
+Points: 1002 | Number of Comments: 445
+5. Tech-savvy audiences block Google Analytics 
+Points: 1107 | Number of Comments: 599
+6. Roman priest’s exceptionally well-preserved remains found in Pompeii 
+Points: 85 | Number of Comments: 15
+7. Docker Desktop no longer free for large companies 
+Points: 373 | Number of Comments: 351
+8. Retool 
 Points: 0 | Number of Comments: 0
-11. Rugby: Head impact study shows cognitive decline after just one season (bbc.co.uk)
-Points: 195 | Number of Comments: 139
-12. Collection of artwork made with the integer circle algorithm (Minsky circle) (onirom.fr)
-Points: 58 | Number of Comments: 3
-13. Startup Bootstrapping Plan (twitter.com/adam_keesling)
-Points: 11 | Number of Comments: 0
-14. Extreme Ironing (wikipedia.org)
-Points: 303 | Number of Comments: 115
-15. The Winners of Remote Work (nytimes.com)
-Points: 77 | Number of Comments: 120
-16. Amplitude (YC W12) IPO S1 (sec.gov)
-Points: 55 | Number of Comments: 11
-17. The art of not taking things personally (dave-bailey.com)
-Points: 32 | Number of Comments: 19
-18. 79 Bay Area startups from Y Combinator's biggest Demo Day batch yet (bizjournals.com)
-Points: 12 | Number of Comments: 1
-19. At the world's oldest social housing, rent hasn't changed since 1521 (cbc.ca)
-Points: 173 | Number of Comments: 159
-20. A visual introduction to Gaussian Belief Propagation (gaussianbp.github.io)
-Points: 128 | Number of Comments: 10
-21. 1910 intro to Astronomy textbook, with the right amount of math [pdf] (gron.ca)
-Points: 59 | Number of Comments: 7
-22. Show HN: BokehCamera – Blur webcam background photorealistically using RealSense (github.com/dheera)
-Points: 22 | Number of Comments: 3
-23. A Pacific Gold Rush (laphamsquarterly.org)
-Points: 13 | Number of Comments: 0
-24. Zoom court hearing postponed after accused found in same location as witness (sturgisjournal.com)
-Points: 84 | Number of Comments: 52
-25. Wild boars are able to open traps to free their fellows (nature.com)
-Points: 88 | Number of Comments: 19
-26. RSA/SHA1 signature type disabled by default in OpenSSH (undeadly.org)
-Points: 36 | Number of Comments: 2
-27. Apple proposes adding "model" element to HTML that displays 3D content (github.com/webkit)
-Points: 172 | Number of Comments: 165
-28. Brooks, Wirth and Go (fredrikholmqvist.com)
-Points: 163 | Number of Comments: 126
-29. Allbirds S-1 IPO (sec.gov)
-Points: 77 | Number of Comments: 84
-30. Three Clocks Are Better Than One (tigerbeetle.com)
-Points: 50 | Number of Comments: 24
+9. Apple banned a pay equity Slack channel 
+Points: 198 | Number of Comments: 147
+10. Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA 
+Points: 105 | Number of Comments: 69
+11. Adapting the OCaml Ecosystem for Multicore OCaml 
+Points: 17 | Number of Comments: 3
+12. The art of not taking things personally 
+Points: 89 | Number of Comments: 49
+13. Perfect pitch study: Why can’t we identify music notes as well as colors? 
+Points: 57 | Number of Comments: 129
+14. Rugby: Head impact study shows cognitive decline after just one season 
+Points: 221 | Number of Comments: 169
+15. Startup Bootstrapping Plan 
+Points: 100 | Number of Comments: 22
+16. The Winners of Remote Work 
+Points: 114 | Number of Comments: 190
+17. A remote island's battle against seabird-killing ants 
+Points: 93 | Number of Comments: 26
+18. Pen Plotter Art and Algorithms, Part 1 
+Points: 10 | Number of Comments: 0
+19. Extreme Ironing 
+Points: 340 | Number of Comments: 134
+20. Collection of artwork made with the integer circle algorithm 
+Points: 75 | Number of Comments: 5
+21. Show HN: BokehCamera – Blur webcam background photorealistically using RealSense 
+Points: 40 | Number of Comments: 10
+22. At the world's oldest social housing, rent hasn't changed since 1521 
+Points: 193 | Number of Comments: 169
+23. Wild claims about K performance 
+Points: 80 | Number of Comments: 41
+24. Mythic Rolls Out M1000-Series Analog AI Accelerators 
+Points: 21 | Number of Comments: 5
+25. Zoom court hearing postponed after accused found in same location as witness 
+Points: 165 | Number of Comments: 108
+26. Brooks, Wirth and Go 
+Points: 198 | Number of Comments: 143
+27. Journal of Controversial Ideas 
+Points: 84 | Number of Comments: 34
+28. A visual introduction to Gaussian Belief Propagation 
+Points: 145 | Number of Comments: 11
+29. Apple proposes adding "model" element to HTML that displays 3D content 
+Points: 205 | Number of Comments: 195
+30. Amplitude 
+Points: 81 | Number of Comments: 23
